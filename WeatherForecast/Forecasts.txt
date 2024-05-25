@@ -1,0 +1,22 @@
+Tuesday   27 05 19.0 0.1
+Wednesday 28 05 23.3 0.2
+Monday    26 05 29.5 0.0
+Thursday  29 05 26.7 0.0
+Friday    30 05 22.8 0.4
+Saturday  31 05 24.6 0.0
+
+Thursday  05 06 29.7 0.0
+Tuesday   03 06 21.0 0.0
+Monday    02 06 21.5 0.7
+Wednesday 04 06 31.5 0.0
+Sunday    01 06 24.6 0.5
+Friday    06 06 27.8 0.0
+Saturday  07 05 24.6 0.0
+
+Thursday  12 06 29.7 0.0
+Tuesday   10 06 21.0 0.0
+Monday    09 06 21.5 0.7
+Wednesday 11 06 31.5 0.0
+Sunday    15 06 24.6 0.5
+Friday    13 06 27.8 0.0
+Saturday  14 05 24.6 0.0
